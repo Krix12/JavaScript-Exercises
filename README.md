@@ -33,7 +33,8 @@ You will be listed under Contributors page.
 
 # Contributors
 [@Krix12](https://github.com/Krix12)
-
+---
+If you like this, give it a star, so more people can see it.
 `Practice makes perfect` some wise man could say.
 
 [programiz]:https://www.programiz.com/javascript/online-compiler/
