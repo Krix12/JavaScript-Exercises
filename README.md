@@ -17,7 +17,7 @@ Everyone is welcomed!😄
 #### Where can I solve the exercises?
 For beginners, I recommend using free online JS editors/compilers like [programiz] and [onecompiler].
 
-Other more complex web IDEs are [replit] and [glitch]
+Other more complex web IDEs are [replit], [glitch] and [codesandbox]
 
 Of course you can also use the almighty [visual studio code] or [atom] and other IDEs.
 
@@ -32,7 +32,7 @@ Make a pull request and I will review your exercises and push it.
 You will be listed under Contributors page.
 
 # Contributors
-[Krix12](https://github.com/Krix12)
+[Krix12](https://github.com/Krix12)<img src="https://avatars.githubusercontent.com/u/65765469?s=96&v=4" height="20px" width="20px" style="border-radius:50%"/>
 
 `Learn by developing` some wise man could say.
 
@@ -40,6 +40,7 @@ You will be listed under Contributors page.
 [onecompiler]:https://onecompiler.com/javascript
 [replit]:https://replit.com/
 [glitch]:https://glitch.com/
+[codesandbox]:https://codesandbox.io/
 [visual studio code]:https://code.visualstudio.com/
 [atom]:https://atom.io/
 [Krix#7143]:https://discordapp.com/users/760133992459796510/
