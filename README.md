@@ -37,6 +37,7 @@ Most common source of exercises is currenly: https://edabit.com/challenges/javas
 If the exercise is taken from other source, it will be linked on the bottom of `Exercise.md` file.<br>
 If I designed the exercise, the source will be linked as "<em>Me</em>"
 
+All solution codes are coded by me. If you find any bugs or styling issues, open a pull request.
 # Contributors
 [@Krix12](https://github.com/Krix12)
 
