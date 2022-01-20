@@ -44,7 +44,7 @@ If I designed the exercise, the source will be linked as "<em>Me</em>"
 
 If you like this, give it a star, so more people can see it.
 
-`Practice makes perfect` some wise man could say.
+`Practice makes perfect`
 
 [programiz]:https://www.programiz.com/javascript/online-compiler/
 [onecompiler]:https://onecompiler.com/javascript
