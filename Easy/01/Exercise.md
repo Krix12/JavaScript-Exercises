@@ -8,6 +8,6 @@ For example, if the input is 4 then you should return 10, because 1 + 2 + 3 + 4 
 Examples:
 ```js
 const input = 4; ➞ 10
-const input = 13; ➞ 91
+const input = 17; ➞ 153
 const input = 600; ➞ 180300
 ```
