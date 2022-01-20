@@ -1,4 +1,4 @@
-#### Add up the numbers
+### Add up the numbers
 ---
 You are given a random positive number between 1 and 1000.
 
