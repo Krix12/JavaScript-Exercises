@@ -6,6 +6,9 @@ Perfect for beginners, intermediates and programmers that want to test themselve
 
 Everyone is welcomed!😄
 
+# Table of contents
+- [FAQ](#FAQ)
+
 # FAQ
 ### Where can I solve the exercises?
 For beginners, I recommend using free online JS editors/compilers like [programiz] and [onecompiler].
