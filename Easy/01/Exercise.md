@@ -1,4 +1,5 @@
 ### Minutes to seconds
+---
 Convert minutes to seconds.
 
 `1 minute = 60 seconds`
