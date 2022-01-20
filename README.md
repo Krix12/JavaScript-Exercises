@@ -8,6 +8,7 @@ Everyone is welcomed!😄
 
 # Table of contents
 - [FAQ](#FAQ)
+  - [Where can I solve the exercises?](#Where can I solve the exercises?)
 
 # FAQ
 ### Where can I solve the exercises?
