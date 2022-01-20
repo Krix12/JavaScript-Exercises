@@ -32,9 +32,9 @@ Make a pull request and I will review your exercises and push it.
 You will be listed under Contributors page.
 
 # Contributors
-[Krix12](https://github.com/Krix12)<img src="https://avatars.githubusercontent.com/u/65765469?s=96&v=4" height="20px" width="20px" style="border-radius:50%"/>
+[@Krix12](https://github.com/Krix12)
 
-`Learn by developing` some wise man could say.
+`Practice makes perfect` some wise man could say.
 
 [programiz]:https://www.programiz.com/javascript/online-compiler/
 [onecompiler]:https://onecompiler.com/javascript
